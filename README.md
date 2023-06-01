@@ -1,16 +1,42 @@
-# chat_app
 
-A new Flutter project.
+<h1 align="center">
+  Chat App
+  <br>
+</h1>
 
-## Getting Started
+<h4 align="center">Flutter group chat aplication for Android, IOS and web made with <a href="https://flutter.dev/">Flutter</a> and <a href="https://firebase.google.com/">Google Firebase</a>.</h4>
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="" alt="chatapp" />
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+<div align="center">
+  <h3>
+    <a href="https://mega.nz/file/tYpgnZBb#ER0sZ8qXBamwHigrE1O0onOT0D0reTl_cD5qylhpq9E">
+      Download APK
+    </a>
+    <span> | </span>
+    <a href="">
+      How it works (Croatian)
+    </a>
+</h3>
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## How To Use
+
+Clone this repository
+```bash
+$ git clone https://github.com/DBDoco/Chat-App.git
+```
+
+Go into the repository
+```bash
+$ cd Chat-App
+```
+
+Build the application
+```bash
+$ flutter build
+```
