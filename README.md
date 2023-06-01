@@ -12,7 +12,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://dbdoco.github.io/Portfolio-website/">
+    <a href="https://mega.nz/file/tYpgnZBb#ER0sZ8qXBamwHigrE1O0onOT0D0reTl_cD5qylhpq9E">
       Download APK
     </a>
     <span> | </span>
