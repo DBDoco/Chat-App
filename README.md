@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h4 align="center">Flutter group chat aplication for Android, IOS and web made with <a href="https://flutter.dev/">Flutter</a> and <a href="https://firebase.google.com/">Google Firebase</a>.</h4>
+<h4 align="center">Group chat aplication for Android, IOS and web made with <a href="https://flutter.dev/">Flutter</a> and <a href="https://firebase.google.com/">Google Firebase</a>.</h4>
 
 <p align="center">
   <img src="" alt="chatapp" />
