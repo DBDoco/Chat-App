@@ -22,6 +22,13 @@
 </h3>
 </div>
 
+## Features
+👉 Email and password registration/login.<br>
+👉 Profile showcase.<br>
+👉 Group creation.<br>
+👉 Group seaching.<br>
+👉 Chatting with multiple people.<br>
+
 
 ## How To Use
 
@@ -39,9 +46,3 @@ Build the application
 ```bash
 $ flutter build
 ```
-## Features
-👉 Email and password registration/login.<br>
-👉 Profile showcase.<br>
-👉 Group creation.<br>
-👉 Group seaching.<br>
-👉 Chatting with multiple people.<br>
