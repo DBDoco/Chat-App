@@ -159,6 +159,7 @@ class _ProfilePageState extends State<ProfilePage> {
             ),
             const Divider(
               height: 20,
+              color: Color(0xFFEEEEEE),
             ),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
