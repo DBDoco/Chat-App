@@ -7,7 +7,7 @@
 <h4 align="center">Group chat aplication for Android, IOS and web made with <a href="https://flutter.dev/">Flutter</a> and <a href="https://firebase.google.com/">Google Firebase</a>.</h4>
 
 <p align="center">
-  <img src="" alt="chatapp" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzcxNzRlMmVlNThkM2U0YmRlYWNlNjgyOWNjM2RjZTgxMTU2NmU0MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/WMyEyQf0WksrUavek6/giphy.gif" alt="chatapp" />
 </p>
 
 <div align="center">
