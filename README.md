@@ -16,7 +16,7 @@
       Download APK
     </a>
     <span> | </span>
-    <a href="https://mega.nz/file/gUYjTJzb#lmqJJ70zRmHUHt33-GjeKObdTCMQRtreBjYtHCApaiM">
+    <a href="https://mega.nz/file/UQhBlIoa#79fh-IFDshKWzi-3tzm4EVO3VAXYU8c5r1pDZWPnQ2g">
       How it works (Croatian)
     </a>
 </h3>
